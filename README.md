@@ -16,7 +16,7 @@ Here are some of my projects:
 - [PenicilliSolver](https://github.com/shua24/penicillisolver) - A web app for medical professionals that converts antimicrobial test tables into a readable format
 - [Nerovim](https://github.com/shua24/nerovim) - A custom, less-bloated modular neovim configuration
 - [Chigen](https://github.com/Shua24/chigen) - A cell counter with a document report generator, including localisation
-- [Yanoch](https://github.com/shua24/yanoch) - Yet Another Notion Clone, intended to be yet another open source Notion
+- [Yanoch](https://github.com/shua24/yanoch) - Yet Another Notion Clone, intended to be yet another open source, narrower-scoped Notion
 
 ## Other Works
 I casually work with Linux systems. I'm currently learning about how to do CI and CD alongside Docker beyond web programming itself. I enjoy playing around
